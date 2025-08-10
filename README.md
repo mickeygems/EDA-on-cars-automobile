@@ -1,4 +1,4 @@
-This project performs Exploratory Data Analysis (EDA) on an automobile dataset containing various car attributes and their respective prices. The dataset consists of 205 car models, each with 26 features such as engine size, fuel type, horsepower, and price.
+[This project performs Exploratory Data Analysis (EDA) on an automobile dataset containing various car attributes and their respective prices. The dataset consists of 205 car models, each with 26 features such as engine size, fuel type, horsepower, and price.
 
 Dataset Overview
 The dataset contains the following columns:
@@ -94,3 +94,4 @@ Distribution of car prices and key features.
 Correlation matrices to identify relationships between variables.
 
 Boxplots, histograms, and scatter plots for data exploration.
+](https://chatgpt.com/c/6898f6b3-bf34-832d-95d2-551fbe750cb4#:~:text=This%20project%20performs,for%20data%20exploration.)
